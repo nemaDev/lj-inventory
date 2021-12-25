@@ -1115,6 +1115,7 @@ body {
     color: white;
     font-family: 'Roboto', sans-serif !important;
     transition: .05s linear;
+    cursor: default;
 }
 
 .weapon-attachments-back:hover {
